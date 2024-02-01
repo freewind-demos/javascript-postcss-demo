@@ -1,9 +1,9 @@
 {
-    "scripts": {
-        "start": "postcss hello.css --use autoprefixer -d ./build/"
-    },
-    "devDependencies": {
-        "autoprefixer": "^9.1.5",
-        "postcss-cli": "^6.0.0"
-    }
+  "scripts": {
+    "start": "postcss hello.css --use autoprefixer -d ./build/"
+  },
+  "devDependencies": {
+    "autoprefixer": "9.1.5",
+    "postcss-cli": "6.0.0"
+  }
 }
